@@ -1,0 +1,6 @@
+- name: 首页
+  link: /
+- name: 自我介绍
+  link: /about.html
+- name: Blog
+  link: /blog.html
